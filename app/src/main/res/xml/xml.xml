@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        drawable="@drawable/home"
+        text="@string/Home" />
+
+    <tab
+        drawable="@drawable/award"
+        text="@string/Reward" />
+
+    <tab
+        drawable="@drawable/avatar"
+        text="@string/Profile" />
+</tabs>
